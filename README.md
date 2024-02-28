@@ -1,4 +1,1 @@
-# ccd_code_1
-Clean Code Dojo - Code 1
-
-#Code
+Our first CodeSpaces and Clean Code Practice session in EGIT.
